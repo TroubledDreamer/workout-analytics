@@ -1,0 +1,11 @@
+name: workout-analytics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - ipykernel
+  - scikit-learn

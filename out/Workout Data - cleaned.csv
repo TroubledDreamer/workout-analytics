@@ -1,0 +1,498 @@
+Date,Time,Activity,Variation,Training Type,Set #,Reps,Weight (lb),Notes,Weight_Unit
+2025-06-02,5:51,barbell squat,low bar,strength,1.0,10.0,185.0,,lb
+2025-06-02,,barbell squat,low bar,strength,2.0,5.0,225.0,,lb
+2025-06-02,,barbell squat,low bar,strength,3.0,5.0,275.0,,lb
+2025-06-02,,leg curls,lying,strength,1.0,3.0,6.0,,level
+2025-06-02,,leg curls,lying,strength,2.0,3.0,7.0,,level
+2025-06-02,,leg press,nan,strength,1.0,4.0,295.0,,lb
+2025-06-02,,leg press,nan,strength,2.0,3.0,295.0,,lb
+2025-06-02,,leg press,nan,strength,3.0,4.0,295.0,,lb
+,,nan,nan,nan,,,,,lb
+2025-06-03,8:58,bench press,flat,nan,1.0,6.0,45.0,,lb
+2025-06-03,,bench press,flat,nan,2.0,5.0,185.0,,lb
+2025-06-03,,bench press,flat,nan,3.0,3.0,185.0,,lb
+2025-06-03,,bench press,flat,nan,4.0,12.0,135.0,,lb
+2025-06-03,,lever seated row,nan,nan,1.0,10.0,10.0,,level
+2025-06-03,,lever seated row,nan,nan,2.0,6.0,10.0,,level
+2025-06-03,,lever seated row,nan,nan,3.0,12.0,11.0,,level
+2025-06-03,,lever seated row,nan,nan,4.0,12.0,5.0,,level
+2025-06-03,,lever seated row,nan,nan,5.0,12.0,6.0,,level
+2025-06-03,,lever seated row,nan,nan,6.0,9.0,10.0,,level
+2025-06-03,,seated chest fly,nan,nan,1.0,5.0,180.0,,lb
+2025-06-03,,seated chest fly,nan,nan,2.0,6.0,100.0,,lb
+2025-06-03,,seated chest fly,nan,nan,3.0,4.0,100.0,,lb
+2025-06-03,,seated chest fly,nan,nan,4.0,5.0,100.0,,lb
+2025-06-03,,dips,nan,nan,1.0,3.0,0.0,,lb
+2025-06-03,,dips,nan,nan,2.0,2.0,0.0,,lb
+2025-06-03,,nan,nan,nan,,,80.0,,lb
+2025-06-03,,nan,nan,nan,,,,,lb
+2025-06-03,,lat pulldown,wide,nan,,,,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-08-02,,barbell squat,low bar,nan,1.0,5.0,115.0,,lb
+2025-08-02,,barbell squat,low bar,nan,2.0,15.0,235.0,,lb
+2025-08-02,,barbell squat,low bar,nan,3.0,10.0,235.0,,lb
+2025-08-02,,barbell squat,low bar,nan,4.0,10.0,235.0,,lb
+2025-08-02,,barbell squat,low bar,nan,5.0,10.0,235.0,,lb
+2025-08-02,,calf raise,nan,nan,1.0,15.0,245.0,,lb
+2025-08-02,,calf raise,nan,nan,2.0,10.0,245.0,,lb
+2025-08-02,,leg curls,lying,nan,1.0,5.0,7.0,,level
+2025-08-02,,leg curls,lying,nan,2.0,5.0,9.0,,level
+2025-08-02,,leg curls,lying,nan,3.0,3.0,10.0,,level
+2025-08-02,,leg curls,lying,nan,4.0,5.0,9.0,,level
+2025-08-02,,leg curls,lying,nan,5.0,5.0,9.0,,level
+2025-08-02,,leg curls,lying,nan,6.0,5.0,9.0,,level
+2025-08-02,,leg curls,lying,nan,7.0,3.0,9.0,,level
+2025-08-02,,leg extension,seated,nan,1.0,5.0,9.0,,level
+2025-08-02,,leg extension,seated,nan,2.0,7.0,14.0,,level
+2025-08-02,,leg extension,seated,nan,3.0,10.0,14.0,,level
+2025-08-02,,leg extension,seated,nan,4.0,10.0,14.0,,level
+2025-08-02,,leg extension,seated,nan,5.0,10.0,14.0,,level
+2025-08-02,,leg extension,seated,nan,6.0,10.0,14.0,,level
+,,nan,nan,nan,,158.0,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-31,,bench press,flat,nan,1.0,5.0,45.0,,lb
+2025-07-31,,bench press,flat,nan,2.0,5.0,115.0,,lb
+2025-07-31,,bench press,flat,nan,3.0,2.0,225.0,,lb
+2025-07-31,,bench press,flat,nan,4.0,2.0,215.0,,lb
+2025-07-31,,bench press,flat,nan,5.0,4.0,205.0,,lb
+2025-07-31,,bench press,flat,nan,6.0,3.0,205.0,,lb
+2025-07-31,,bench press,flat,nan,7.0,6.0,185.0,,lb
+2025-07-31,,bench press,flat,nan,8.0,4.0,115.0,,lb
+2025-07-31,,lat pulldown,wide,nan,1.0,6.0,10.0,,level
+2025-07-31,,bench press,incline,nan,1.0,5.0,95.0,,lb
+2025-07-31,,lat pulldown,wide,nan,2.0,5.0,13.0,,level
+2025-07-31,,bench press,incline,nan,2.0,4.0,165.0,,lb
+2025-07-31,,bench press,incline,nan,2.0,2.0,165.0,,lb
+2025-07-31,,lat pulldown,wide,nan,3.0,10.0,12.0,,level
+2025-07-31,,lat pulldown,wide,nan,4.0,5.0,12.0,,level
+2025-07-31,,lat pulldown,reverse,nan,1.0,4.0,12.0,,level
+2025-07-31,,bench press,incline,nan,3.0,5.0,145.0,,lb
+2025-07-31,,lat pulldown,wide,nan,,10.0,12.0,,level
+2025-07-31,,lat pulldown,reverse,nan,,6.0,12.0,,level
+2025-07-31,,bench press,incline,nan,,7.0,145.0,,lb
+2025-07-31,,bench press,incline,nan,,7.0,145.0,,lb
+2025-07-31,,lat pulldown,wide,nan,,7.0,12.0,,level
+2025-07-31,,lat pulldown,reverse,nan,,8.0,12.0,,level
+2025-07-31,,lever seated row,nan,nan,,5.0,11.0,,level
+2025-07-31,,seated chest fly,nan,nan,,6.0,145.0,,lb
+2025-07-31,,lever seated row,nan,nan,,3.0,17.0,,level
+2025-07-31,,lever seated row,nan,nan,,2.0,16.0,,level
+2025-07-31,,seated chest fly,nan,nan,,4.0,205.0,,lb
+2025-07-31,,dips,nan,nan,,5.0,0.0,,lb
+2025-07-31,,lever seated row,nan,nan,,3.0,17.0,,level
+2025-07-31,,lever seated row,nan,nan,,3.0,16.0,,level
+2025-07-31,,seated chest fly,nan,nan,,5.0,205.0,,lb
+2025-07-31,,dips,nan,nan,,4.0,0.0,,lb
+2025-07-31,,lever seated row,nan,nan,,5.0,16.0,,level
+2025-07-31,,lever seated row,nan,nan,,3.0,15.0,,level
+2025-07-31,,seated chest fly,nan,nan,,5.0,190.0,,lb
+2025-07-31,,dips,nan,nan,,5.0,0.0,,lb
+2025-07-31,,t-bar row,nan,nan,,5.0,80.0,,lb
+2025-07-31,,t-bar row,nan,nan,,5.0,115.0,,lb
+2025-07-31,,t-bar row,nan,nan,,6.0,150.0,,lb
+2025-07-31,,t-bar row,nan,nan,,6.0,160.0,,lb
+2025-07-31,,t-bar row,nan,nan,,5.0,160.0,,lb
+2025-07-31,,t-bar row,nan,nan,,5.0,160.0,,lb
+2025-07-31,,t-bar row,nan,nan,,5.0,160.0,,lb
+2025-07-31,,preacher curl,nan,nan,,6.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,3.0,25.0,,lb
+2025-07-31,,preacher curl,nan,nan,,3.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,5.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,4.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,4.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,4.0,20.0,,lb
+2025-07-31,,preacher curl,nan,nan,,3.0,20.0,,lb
+2025-07-31,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-07-31,,wrist curls,nan,nan,,10.0,20.0,,lb
+2025-07-31,,wrist curls,reverse,nan,,5.0,25.0,,lb
+2025-07-31,,wrist curls,nan,nan,,10.0,25.0,,lb
+2025-07-31,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-07-31,,wrist curls,nan,nan,,9.0,30.0,,lb
+2025-07-31,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-07-31,,wrist curls,nan,nan,,6.0,30.0,,lb
+2025-07-31,,rotary trunk twists,nan,nan,,5.0,7.0,,level
+2025-07-31,,rotary trunk twists,nan,nan,,6.0,7.0,,level
+2025-07-31,,rotary trunk twists,nan,nan,,6.0,7.0,,level
+,,nan,nan,nan,,321.0,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-29,,barbell squat,low bar,nan,,5.0,45.0,,lb
+2025-07-29,,barbell squat,low bar,nan,,15.0,135.0,,lb
+2025-07-29,,barbell squat,low bar,nan,,15.0,135.0,,lb
+2025-07-29,,barbell squat,low bar,nan,,15.0,135.0,,lb
+2025-07-29,,barbell squat,low bar,nan,,15.0,135.0,,lb
+2025-07-29,,barbell squat,low bar,nan,,10.0,135.0,,lb
+2025-07-29,,leg extension,nan,nan,,5.0,14.0,,level
+2025-07-29,,leg extension,nan,nan,,5.0,14.0,,level
+2025-07-29,,leg extension,nan,nan,,5.0,14.0,,level
+2025-07-29,,leg extension,one leg,nan,,3.0,12.0,,level
+2025-07-29,,leg extension,nan,nan,,,14.0,,level
+2025-07-29,,leg curls,lying,nan,,5.0,7.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-25,,bench press,flat,nan,,5.0,135.0,,lb
+2025-07-25,,bench press,flat,nan,,5.0,185.0,,lb
+2025-07-25,,bench press,flat,nan,,2.0,215.0,,lb
+2025-07-25,,bench press,flat,nan,,3.0,205.0,,lb
+2025-07-25,,bench press,flat,nan,,5.0,185.0,,lb
+2025-07-25,,bench press,flat,nan,,5.0,185.0,,lb
+2025-07-25,,bench press,flat,nan,,3.0,185.0,,lb
+2025-07-25,,bench press,flat,nan,,3.0,175.0,,lb
+2025-07-25,,bench press,incline,nan,,5.0,95.0,,lb
+2025-07-25,,lat pulldown,nan,nan,,5.0,9.0,,level
+2025-07-25,,bench press,incline,nan,,5.0,135.0,,lb
+2025-07-25,,lat pulldown,nan,nan,,5.0,12.0,,level
+2025-07-25,,lat pulldown,nan,nan,,5.0,13.0,,level
+2025-07-25,,lat pulldown,nan,nan,,5.0,13.0,,level
+2025-07-25,,lat pulldown,nan,nan,,8.0,12.0,,level
+2025-07-25,,lat pulldown,nan,nan,,5.0,12.0,,level
+2025-07-25,,lat pulldown,nan,nan,,6.0,12.0,,level
+2025-07-25,,lever seated row,nan,nan,,5.0,14.0,,level
+2025-07-25,,seated chest fly,nan,nan,,5.0,160.0,,lb
+2025-07-25,,lever seated row,nan,nan,,4.0,18.0,,level
+2025-07-25,,lever seated row,nan,nan,,3.0,16.0,,level
+2025-07-25,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-07-25,,dips,nan,nan,,6.0,0.0,,lb
+2025-07-25,,lever seated row,nan,nan,,2.0,18.0,,level
+2025-07-25,,lever seated row,nan,nan,,3.0,16.0,,level
+2025-07-25,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-07-25,,dips,nan,nan,,4.0,0.0,,lb
+2025-07-25,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-25,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-25,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-25,,rotary trunk twists,nan,nan,,6.0,10.0,,level
+2025-07-25,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-19,,barbell squat,low bar,nan,,6.0,45.0,,lb
+2025-07-19,,barbell squat,low bar,nan,,5.0,135.0,,lb
+2025-07-19,,barbell squat,low bar,nan,,5.0,225.0,,lb
+2025-07-19,,barbell squat,low bar,nan,,5.0,225.0,,lb
+2025-07-19,,barbell squat,low bar,nan,,5.0,225.0,,lb
+2025-07-19,,leg extension,seated,nan,,10.0,10.0,,level
+2025-07-19,,leg extension,seated,nan,,10.0,10.0,,level
+2025-07-19,,leg extension,seated,nan,,5.0,14.0,,level
+2025-07-19,,leg extension,one leg,nan,,4.0,14.0,,level
+2025-07-19,,leg extension,one leg,nan,,4.0,14.0,,level
+2025-07-19,,leg extension,seated,nan,,10.0,14.0,,level
+2025-07-19,,leg extension,seated,nan,,10.0,14.0,,level
+2025-07-19,,leg extension,seated,nan,,10.0,14.0,,level
+2025-07-19,,leg extension,seated,nan,,10.0,14.0,,level
+2025-07-19,,leg curls,lying,nan,,3.0,11.0,,level
+2025-07-19,,leg curls,lying,nan,,2.0,10.0,,level
+2025-07-19,,leg curls,lying,nan,,4.0,10.0,,level
+2025-07-19,,leg curls,lying,nan,,4.0,10.0,,level
+2025-07-19,,leg curls,lying,nan,,1.0,9.0,,level
+2025-07-19,,leg curls,lying,nan,,5.0,9.0,,level
+2025-07-19,,leg press,nan,nan,,5.0,230.0,,lb
+2025-07-19,,leg press,nan,nan,,5.0,320.0,,lb
+2025-07-19,,leg press,nan,nan,,5.0,390.0,,lb
+2025-07-19,,leg press,nan,nan,,10.0,390.0,,lb
+2025-07-19,,leg press,nan,nan,,5.0,390.0,,lb
+2025-07-19,,calf raise,leg press,nan,,5.0,390.0,,lb
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,9.0,,level
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,11.0,,level
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+2025-07-19,,rotary trunk twists,nan,nan,,5.0,10.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-08-07,,bench press,flat,nan,,10.0,45.0,,lb
+2025-08-07,,bench press,flat,nan,,5.0,115.0,,lb
+2025-08-07,,bench press,flat,nan,,1.0,225.0,,lb
+2025-08-07,,bench press,flat,nan,,2.0,205.0,,lb
+2025-08-07,,bench press,flat,nan,,7.0,185.0,,lb
+2025-08-07,,bench press,flat,nan,,5.0,185.0,,lb
+2025-08-07,,bench press,flat,nan,,5.0,185.0,,lb
+2025-08-07,,bench press,incline,nan,,3.0,165.0,,lb
+2025-08-07,,pull up,nan,nan,,3.0,0.0,,lb
+2025-08-07,,bench press,incline,nan,,11.0,135.0,,lb
+2025-08-07,,pull up,nan,nan,,1.0,0.0,,lb
+2025-08-07,,bench press,incline,nan,,10.0,135.0,,lb
+2025-08-07,,pull up,nan,nan,,2.0,0.0,,lb
+2025-08-07,,lever seated row,nan,nan,,5.0,15.0,,level
+2025-08-07,,seated chest fly,nan,nan,,5.0,160.0,,lb
+2025-08-07,,lever seated row,nan,nan,,10.0,15.0,,level
+2025-08-07,,seated chest fly,nan,nan,,2.0,205.0,,lb
+2025-08-07,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-08-07,,lever seated row,nan,nan,,10.0,14.0,,level
+2025-08-07,,dips,nan,nan,,4.0,0.0,,lb
+2025-08-07,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-08-07,,dips,nan,nan,,5.0,0.0,,lb
+2025-08-07,,lever seated row,nan,nan,,6.0,14.0,,level
+2025-08-07,,seated chest fly,nan,nan,,6.0,175.0,,lb
+2025-08-07,,dips,nan,nan,,3.0,0.0,,lb
+2025-08-07,,t-bar row,nan,nan,,5.0,80.0,,lb
+2025-08-07,,t-bar row,nan,nan,,5.0,115.0,,lb
+2025-08-07,,t-bar row,nan,nan,,5.0,150.0,,lb
+2025-08-07,,t-bar row,nan,nan,,6.0,160.0,,lb
+2025-08-07,,t-bar row,nan,nan,,6.0,160.0,,lb
+2025-08-07,,preacher curl,nan,nan,,5.0,15.0,,lb
+2025-08-07,,preacher curl,nan,nan,,7.0,20.0,,lb
+2025-08-07,,preacher curl,nan,nan,,10.0,20.0,,lb
+2025-08-07,,preacher curl,nan,nan,,10.0,20.0,,lb
+2025-08-07,,preacher curl,nan,nan,,10.0,20.0,,lb
+2025-08-07,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-08-07,,wrist curls,nan,nan,,10.0,20.0,,lb
+2025-08-07,,wrist curls,reverse,nan,,5.0,25.0,,lb
+2025-08-07,,wrist curls,nan,nan,,6.0,30.0,,lb
+2025-08-07,,wrist curls,reverse,nan,,10.0,20.0,,lb
+2025-08-07,,wrist curls,nan,nan,,10.0,25.0,,lb
+2025-08-07,,wrist curls,reverse,nan,,10.0,20.0,,lb
+2025-08-07,,wrist curls,nan,nan,,15.0,25.0,,lb
+2025-08-07,,rotary trunk twists,nan,nan,,10.0,6.0,,level
+2025-08-07,,rotary trunk twists,nan,nan,,10.0,6.0,,level
+2025-08-07,,rotary trunk twists,nan,nan,,10.0,6.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-08,,barbell squat,low bar,nan,,5.0,185.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,5.0,275.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,5.0,315.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,4.0,315.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,5.0,275.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,5.0,225.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,10.0,185.0,,lb
+2025-07-08,,barbell squat,low bar,nan,,6.0,185.0,,lb
+2025-07-08,,leg curls,lying,nan,,5.0,9.0,,level
+2025-07-08,,leg curls,lying,nan,,5.0,10.0,,level
+2025-07-08,,leg curls,lying,nan,,2.0,11.0,,level
+2025-07-08,,leg curls,lying,nan,,1.0,10.0,,level
+2025-07-08,,leg curls,lying,nan,,2.0,9.0,,level
+2025-07-08,,leg curls,lying,nan,,2.0,10.0,,level
+2025-07-08,,leg curls,lying,nan,,1.0,11.0,,level
+2025-07-08,,leg curls,lying,nan,,1.0,10.0,,level
+2025-07-08,,leg curls,lying,nan,,1.0,9.0,,level
+2025-07-08,,leg curls,lying,nan,,6.0,10.0,,level
+2025-07-08,,leg extension,seated,nan,,10.0,7.0,,level
+2025-07-08,,leg extension,seated,nan,,10.0,12.0,,level
+2025-07-08,,leg extension,one leg,nan,,5.0,12.0,,level
+2025-07-08,,leg extension,one leg,nan,,5.0,12.0,,level
+2025-07-08,,leg extension,one leg,nan,,5.0,12.0,,level
+2025-07-08,,leg press,nan,nan,,10.0,230.0,,lb
+2025-07-08,,leg press,nan,nan,,10.0,230.0,,lb
+2025-07-08,,leg press,nan,nan,,10.0,230.0,,lb
+2025-07-08,,rotary trunk twists,nan,nan,,5.0,2.0,,level
+2025-07-08,,rotary trunk twists,nan,nan,,6.0,10.0,,level
+2025-07-08,,rotary trunk twists,nan,nan,,6.0,10.0,,level
+2025-07-08,,rotary trunk twists,nan,nan,,5.0,11.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-06-30,,bench press,flat,nan,,10.0,135.0,,lb
+2025-06-30,,bench press,flat,nan,,3.0,205.0,,lb
+2025-06-30,,bench press,flat,nan,,3.0,195.0,,lb
+2025-06-30,,bench press,flat,nan,,3.0,185.0,,lb
+2025-06-30,,bench press,flat,nan,,3.0,185.0,,lb
+2025-06-30,,bench press,flat,nan,,3.0,185.0,,lb
+2025-06-30,,lat pulldown,wide,nan,,10.0,9.0,,level
+2025-06-30,,bench press,incline,nan,,5.0,135.0,,lb
+2025-06-30,,lat pulldown,wide,nan,,5.0,12.0,,level
+2025-06-30,,bench press,incline,nan,,3.0,145.0,,lb
+2025-06-30,,lat pulldown,wide,nan,,10.0,11.0,,level
+2025-06-30,,bench press,incline,nan,,4.0,145.0,,lb
+2025-06-30,,lat pulldown,wide,nan,,10.0,11.0,,level
+2025-06-30,,bench press,incline,nan,,5.0,135.0,,lb
+2025-06-30,,lat pulldown,wide,nan,,5.0,11.0,,level
+2025-06-30,,lever seated row,nan,nan,,10.0,9.0,,level
+2025-06-30,,seated chest fly,nan,nan,,5.0,100.0,,lb
+2025-06-30,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-06-30,,dips,nan,nan,,5.0,0.0,,lb
+2025-06-30,,lever seated row,nan,nan,,5.0,15.0,,level
+2025-06-30,,lever seated row,nan,nan,,3.0,16.0,,level
+2025-06-30,,dips,nan,nan,,3.0,0.0,,lb
+2025-06-30,,lever seated row,nan,nan,,5.0,14.0,,level
+2025-06-30,,seated chest fly,nan,nan,,6.0,175.0,,lb
+2025-06-30,,dips,nan,nan,,4.0,0.0,,lb
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-06-24,,bench press,flat,nan,,10.0,55.0,,lb
+2025-06-24,,bench press,flat,nan,,5.0,135.0,,lb
+2025-06-24,,bench press,flat,nan,,2.0,205.0,,lb
+2025-06-24,,bench press,flat,nan,,2.0,205.0,,lb
+2025-06-24,,bench press,flat,nan,,4.0,195.0,,lb
+2025-06-24,,bench press,flat,nan,,3.0,195.0,,lb
+2025-06-24,,bench press,flat,nan,,5.0,185.0,,lb
+2025-06-24,,lat pulldown,wide,nan,,10.0,9.0,,level
+2025-06-24,,bench press,incline,nan,,5.0,135.0,,lb
+2025-06-24,,lat pulldown,wide,nan,,5.0,12.0,,level
+2025-06-24,,bench press,incline,nan,,1.0,185.0,,lb
+2025-06-24,,bench press,incline,nan,,4.0,155.0,,lb
+2025-06-24,,lat pulldown,wide,nan,,5.0,13.0,,level
+2025-06-24,,bench press,incline,nan,,5.0,155.0,,lb
+2025-06-24,,lat pulldown,wide,nan,,5.0,10.0,,level
+2025-06-24,,bench press,incline,nan,,6.0,145.0,,lb
+2025-06-24,,lever seated row,nan,nan,,6.0,10.0,,level
+2025-06-24,,seated chest fly,nan,nan,,6.0,100.0,,lb
+2025-06-24,,lever seated row,nan,nan,,6.0,15.0,,level
+2025-06-24,,seated chest fly,nan,nan,,5.0,205.0,,lb
+2025-06-24,,dips,nan,nan,,4.0,0.0,,lb
+2025-06-24,,lever seated row,nan,nan,,2.0,20.0,,level
+2025-06-24,,lever seated row,nan,nan,,4.0,18.0,,level
+2025-06-24,,seated chest fly,nan,nan,,6.0,175.0,,lb
+2025-06-24,,dips,nan,nan,,3.0,0.0,,lb
+2025-06-24,,lever seated row,nan,nan,,7.0,14.0,,level
+2025-06-24,,seated chest fly,nan,nan,,5.0,185.0,,lb
+2025-06-24,,dips,nan,nan,,2.0,0.0,,lb
+2025-06-24,,dips,nan,nan,,1.0,0.0,,lb
+2025-06-24,,nan,nan,nan,,,,,lb
+2025-06-24,,nan,nan,nan,,,,,lb
+2025-06-24,,nan,nan,nan,,,,,lb
+2025-06-24,,nan,nan,nan,,,,,lb
+2025-06-24,,nan,nan,nan,,,,,lb
+2025-06-24,,preacher curl,nan,nan,,5.0,15.0,,lb
+2025-06-24,,preacher curl,nan,nan,,5.0,20.0,,lb
+2025-06-24,,preacher curl,nan,nan,,3.0,25.0,,lb
+2025-06-24,,preacher curl,nan,nan,,3.0,25.0,,lb
+2025-06-24,,preacher curl,nan,nan,,6.0,20.0,,lb
+2025-06-24,,preacher curl,nan,nan,,4.0,20.0,,lb
+2025-06-24,,preacher curl,nan,nan,,7.0,15.0,,lb
+2025-06-24,,preacher curl,nan,nan,,6.0,15.0,,lb
+2025-06-24,,preacher curl,nan,nan,,5.0,15.0,,lb
+2025-06-24,,wrist curls,reverse,nan,,5.0,15.0,,lb
+2025-06-24,,wrist curls,nan,nan,,10.0,15.0,,lb
+2025-06-24,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-06-24,,wrist curls,nan,nan,,10.0,20.0,,lb
+2025-06-24,,wrist curls,nan,nan,,8.0,25.0,,lb
+2025-06-24,,wrist curls,reverse,nan,,6.0,15.0,,lb
+2025-06-24,,wrist curls,reverse,nan,,8.0,15.0,,lb
+2025-06-24,,wrist curls,nan,nan,,10.0,25.0,,lb
+2025-06-24,,leg curls,lying,nan,,5.0,7.0,,level
+2025-06-24,,leg curls,lying,nan,,3.0,10.0,,level
+2025-06-24,,leg curls,lying,nan,,3.0,10.0,,level
+2025-06-24,,leg curls,lying,nan,,3.0,10.0,,level
+2025-06-24,,leg curls,lying,nan,,6.0,8.0,,level
+2025-06-24,,rotary trunk twists,nan,nan,,10.0,6.0,,level
+2025-06-24,,rotary trunk twists,nan,nan,,10.0,9.0,,level
+2025-06-24,,rotary trunk twists,nan,nan,,10.0,9.0,,level
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-06-19,,barbell squat,low bar,nan,,5.0,115.0,,lb
+2025-06-19,,barbell squat,low bar,nan,,5.0,225.0,,lb
+2025-06-19,,barbell squat,low bar,nan,,5.0,135.0,,lb
+2025-06-19,,leg curls,lying,nan,,5.0,8.0,,level
+2025-06-19,,leg curls,lying,nan,,3.0,10.0,,level
+2025-06-19,,leg curls,lying,nan,,2.0,9.0,,level
+2025-06-19,,leg curls,lying,nan,,3.0,9.0,,level
+2025-06-19,,leg curls,lying,nan,,2.0,8.0,,level
+2025-06-19,,leg curls,lying,nan,,5.0,8.0,,level
+2025-06-19,,leg curls,lying,nan,,7.0,7.0,,level
+2025-06-19,,leg extension,seated,nan,,5.0,13.0,,level
+2025-06-19,,leg extension,seated,nan,,4.0,12.0,,level
+2025-06-19,,leg extension,seated,nan,,5.0,10.0,,level
+2025-06-19,,calf raise,nan,nan,,10.0,185.0,,lb
+2025-06-19,,leg press,nan,nan,,10.0,185.0,,lb
+2025-06-19,,calf raise,nan,nan,,10.0,185.0,,lb
+2025-06-19,,leg press,nan,nan,,5.0,185.0,,lb
+2025-06-19,,calf raise,nan,nan,,10.0,185.0,,lb
+2025-06-19,,leg press,nan,nan,,10.0,185.0,,lb
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-06-16,,bench press,flat,nan,,11.0,95.0,,lb
+2025-06-16,,bench press,flat,nan,,5.0,135.0,,lb
+2025-06-16,,bench press,flat,nan,,4.0,205.0,,lb
+2025-06-16,,bench press,flat,nan,,10.0,165.0,,lb
+2025-06-16,,lat pulldown,wide,nan,,10.0,9.0,,level
+2025-06-16,,bench press,incline,nan,,10.0,95.0,,lb
+2025-06-16,,lat pulldown,wide,nan,,5.0,12.0,,level
+2025-06-16,,bench press,incline,nan,,5.0,115.0,,lb
+2025-06-16,,lat pulldown,wide,nan,,10.0,11.0,,level
+2025-06-16,,bench press,incline,nan,,5.0,135.0,,lb
+2025-06-16,,bench press,incline,nan,,1.0,165.0,,lb
+2025-06-16,,bench press,incline,nan,,5.0,145.0,,lb
+2025-06-16,,lever seated row,nan,nan,,6.0,8.0,,level
+2025-06-16,,lever seated row,nan,nan,,7.0,13.0,,level
+2025-06-16,,seated chest fly,nan,nan,,6.0,175.0,,lb
+2025-06-16,,lever seated row,nan,nan,,5.0,18.0,,level
+2025-06-16,,seated chest fly,nan,nan,,5.0,175.0,,lb
+2025-06-16,,dips,nan,nan,,3.0,0.0,,lb
+2025-06-16,,lever seated row,nan,nan,,2.0,23.0,,level
+2025-06-16,,lever seated row,nan,nan,,3.0,20.0,,level
+2025-06-16,,dips,nan,nan,,2.0,0.0,,lb
+2025-06-16,,seated chest fly,nan,nan,,2.0,220.0,,lb
+2025-06-16,,seated chest fly,nan,nan,,3.0,175.0,,lb
+2025-06-16,,lever seated row,nan,nan,,8.0,15.0,,level
+2025-06-16,,seated chest fly,nan,nan,,6.0,135.0,,lb
+2025-06-16,,seated chest fly,nan,nan,,5.0,130.0,,lb
+2025-06-16,,dips,nan,nan,,1.0,0.0,,lb
+2025-06-16,,t-bar row,nan,nan,,5.0,80.0,,lb
+2025-06-16,,t-bar row,nan,nan,,5.0,105.0,,lb
+2025-06-16,,t-bar row,nan,nan,,5.0,90.0,,lb
+2025-06-16,,t-bar row,nan,nan,,5.0,80.0,,lb
+2025-06-16,,preacher curl,nan,nan,,5.0,15.0,,lb
+2025-06-16,,preacher curl,nan,nan,,5.0,20.0,,lb
+2025-06-16,,preacher curl,nan,nan,,2.0,25.0,,lb
+2025-06-16,,preacher curl,nan,nan,,3.0,20.0,,lb
+2025-06-16,,preacher curl,nan,nan,,5.0,20.0,,lb
+2025-06-16,,preacher curl,nan,nan,,10.0,15.0,,lb
+2025-06-16,,preacher curl,nan,nan,,7.0,15.0,,lb
+2025-06-16,,preacher curl,nan,nan,,7.0,15.0,,lb
+2025-06-16,,wrist curls,reverse,nan,,5.0,15.0,,lb
+2025-06-16,,wrist curls,nan,nan,,5.0,15.0,,lb
+2025-06-16,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-06-16,,wrist curls,nan,nan,,10.0,20.0,,lb
+2025-06-16,,wrist curls,reverse,nan,,4.0,20.0,,lb
+2025-06-16,,wrist curls,nan,nan,,12.0,20.0,,lb
+2025-06-16,,wrist curls,reverse,nan,,4.0,20.0,,lb
+2025-06-16,,wrist curls,nan,nan,,12.0,20.0,,lb
+,,nan,nan,nan,,,,,lb
+,,nan,nan,nan,,,,,lb
+2025-07-21,,bench press,flat,nan,,10.0,135.0,,lb
+2025-07-21,,bench press,flat,nan,,3.0,205.0,,lb
+2025-07-21,,bench press,flat,nan,,2.0,205.0,,lb
+2025-07-21,,bench press,flat,nan,,5.0,205.0,,lb
+2025-07-21,,bench press,flat,nan,,5.0,105.0,,lb
+2025-07-21,,bench press,flat,nan,,4.0,105.0,,lb
+2025-07-21,,bench press,flat,nan,,3.0,105.0,,lb
+2025-07-21,,bench press,flat,nan,,2.0,105.0,,lb
+2025-07-21,,bench press,flat,nan,,5.0,95.0,,lb
+2025-07-21,,bench press,flat,nan,,6.0,145.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,5.0,11.0,,level
+2025-07-21,,bench press,incline,nan,,5.0,95.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,4.0,13.0,,level
+2025-07-21,,bench press,incline,nan,,5.0,135.0,,lb
+2025-07-21,,bench press,incline,nan,,5.0,115.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,7.0,12.0,,level
+2025-07-21,,lat pulldown,wide,nan,,5.0,12.0,,level
+2025-07-21,,bench press,incline,nan,,5.0,145.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,10.0,11.0,,level
+2025-07-21,,bench press,incline,nan,,5.0,145.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,5.0,11.0,,level
+2025-07-21,,bench press,incline,nan,,3.0,145.0,,lb
+2025-07-21,,lat pulldown,wide,nan,,10.0,11.0,,level
+2025-07-21,,lever seated row,wide,nan,,5.0,13.0,,level
+2025-07-21,,seated chest fly,nan,nan,,10.0,145.0,,lb
+2025-07-21,,lever seated row,nan,nan,,3.0,17.0,,level
+2025-07-21,,lever seated row,nan,nan,,2.0,15.0,,level
+2025-07-21,,seated chest fly,nan,nan,,3.0,205.0,,lb
+2025-07-21,,seated chest fly,nan,nan,,1.0,190.0,,lb
+2025-07-21,,dips,nan,nan,,4.0,0.0,,lb
+2025-07-21,,lever seated row,nan,nan,,4.0,17.0,,level
+2025-07-21,,lever seated row,nan,nan,,3.0,15.0,,level
+2025-07-21,,seated chest fly,nan,nan,,3.0,175.0,,lb
+2025-07-21,,seated chest fly,nan,nan,,2.0,145.0,,lb
+2025-07-21,,dips,nan,nan,,5.0,0.0,,lb
+2025-07-21,,lever seated row,nan,nan,,2.0,17.0,,level
+2025-07-21,,lever seated row,nan,nan,,3.0,15.0,,level
+2025-07-21,,seated chest fly,nan,nan,,5.0,160.0,,lb
+2025-07-21,,dips,nan,nan,,3.0,0.0,,lb
+2025-07-21,,lever seated row,nan,nan,,4.0,16.0,,level
+2025-07-21,,t-bar row,nan,nan,,5.0,80.0,,lb
+2025-07-21,,t-bar row,nan,nan,,5.0,115.0,,lb
+2025-07-21,,t-bar row,nan,nan,,5.0,150.0,,lb
+2025-07-21,,preacher curl,nan,nan,,1.0,20.0,,lb
+2025-07-21,,t-bar row,nan,nan,,4.0,150.0,,lb
+2025-07-21,,preacher curl,nan,nan,,5.0,25.0,,lb
+2025-07-21,,preacher curl,nan,nan,,5.0,25.0,,lb
+2025-07-21,,preacher curl,nan,nan,,3.0,25.0,,lb
+2025-07-21,,preacher curl,nan,nan,,2.0,20.0,,lb
+2025-07-21,,preacher curl,nan,nan,,6.0,20.0,,lb
+2025-07-21,,wrist curls,reverse,nan,,5.0,20.0,,lb
+2025-07-21,,wrist curls,nan,nan,,10.0,20.0,,lb
+2025-07-21,,wrist curls,reverse,nan,,5.0,25.0,,lb
+2025-07-21,,wrist curls,nan,nan,,10.0,25.0,,lb
+2025-07-21,,wrist curls,reverse,nan,,5.0,25.0,,lb
+2025-07-21,,wrist curls,nan,nan,,7.0,30.0,,lb
+2025-07-21,,wrist curls,reverse,nan,,7.0,20.0,,lb
+2025-07-21,,wrist curls,nan,nan,,7.0,30.0,,lb
