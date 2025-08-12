@@ -9,3 +9,4 @@ dependencies:
   - jupyterlab
   - ipykernel
   - scikit-learn
+  - statsmodels
